@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TegneGol:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TegneGol_jar</output-path>
+    <root id="archive" name="TegneGol.jar">
+      <element id="module-output" name="TegneGol" />
+    </root>
+  </artifact>
+</component>

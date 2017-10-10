@@ -1,0 +1,20 @@
+/*.canvas {
+    -fx-background-color: antiquewhite, white ;
+    -fx-background-insets: 0, 20 ;
+    -fx-padding: 20 ;
+}*/
+
+.button {
+    -fx-background-color: #fff;
+    -fx-background-color:
+            rgba(0,0,0,0.08),
+            linear-gradient(#fff, #fcfcfc);
+}
+
+.button:hover {
+    -fx-background-color: #999; /*#e0dcd0*/
+     -fx-background-color:
+            rgba(0,0,0,0.08),
+            linear-gradient(#9a9a9a, #909090);
+    -fx-text-fill: #fff;
+}
